@@ -1,0 +1,1 @@
+Deve-se começar escrevendo um teste funcional simples. Ele não passará de início, então deve-se escrever um teste unitário, que também não passará pois o código da aplicação não existe ainda. Escreve-se o código necessário para o teste unitário ter sucesso, refatorando caso necessário e, se tudo estiver certo, deve-se conferir por último o teste funcional.
