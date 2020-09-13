@@ -1,0 +1,2 @@
+Testes de unidade testam pequenas porções do sistema, métodos por exemplo. Eles são executados de forma bem rápida e são feitos pelo próprio desenvolvedor.
+Testes funcionais testam o sistema como um todo no ponto de vista do usuário. Eles demoram um tempo maior para executar e geralmente não são feitos pelo próprio desenvolvedor.
